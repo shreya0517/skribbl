@@ -146,7 +146,7 @@ function App() {
   const canStart =
     isHost &&
     room &&
-    Object.keys(room.players).length >= 1 &&
+    Object.keys(room.players).length >= 2 &&
     everyoneReady &&
     activeState !== "playing" &&
     activeState !== "choosing";
