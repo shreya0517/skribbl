@@ -1,0 +1,1 @@
+// draw_start/draw_move/draw_end handlers

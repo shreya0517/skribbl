@@ -1,0 +1,1 @@
+// current room, player, game state from sockets
